@@ -1,0 +1,21 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "Project to test RxJS functions and learn the library",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "typescript": "^3.6.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "author": "Icaro de Barros",
+  "license": "ISC"
+}
