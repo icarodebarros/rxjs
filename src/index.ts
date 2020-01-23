@@ -1,9 +1,9 @@
 // require('./operators/combination/combineAll');
-require('./operators/combination/combineLatest');
+// require('./operators/combination/combineLatest');
 // require('./operators/combination/concat');
 // require('./operators/combination/concatAll');
 // require('./operators/combination/endWith');
-// require('./operators/combination/forkJoin');
+require('./operators/combination/forkJoin');
 // require('./operators/combination/merge');
 // require('./operators/combination/mergeAll');
 // require('./operators/combination/pairwise');
