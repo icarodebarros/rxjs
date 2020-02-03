@@ -26,12 +26,12 @@
 // require('./operators/creation/of');
 // require('./operators/creation/range');
 // require('./operators/creation/throw');
-require('./operators/creation/timer');
+// require('./operators/creation/timer');
 // require('./operators/errorHandling/catch-catchError');
 // require('./operators/errorHandling/retry');
 // require('./operators/errorHandling/retryWhen');
 // require('./operators/Multicasting/publish');
-// require('./operators/Multicasting/multicast');
+require('./operators/Multicasting/multicast');
 // require('./operators/Multicasting/share');
 // require('./operators/Multicasting/shareReplay');
 // require('./operators/Filtering/audit');
