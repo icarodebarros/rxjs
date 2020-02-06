@@ -31,7 +31,7 @@
 // require('./operators/errorHandling/retry');
 // require('./operators/errorHandling/retryWhen');
 // require('./operators/Multicasting/publish');
-require('./operators/Multicasting/multicast');
+// require('./operators/Multicasting/multicast');
 // require('./operators/Multicasting/share');
 // require('./operators/Multicasting/shareReplay');
 // require('./operators/Filtering/audit');
@@ -43,7 +43,7 @@ require('./operators/Multicasting/multicast');
 // require('./operators/Filtering/distinctUntilKeyChanged');
 // require('./operators/Filtering/filter');
 // require('./operators/Filtering/find');
-// require('./operators/Filtering/first');
+require('./operators/Filtering/first');
 // require('./operators/Filtering/ignoreElements');
 // require('./operators/Filtering/last');
 // require('./operators/Filtering/sample');
