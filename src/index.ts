@@ -43,7 +43,7 @@
 // require('./operators/Filtering/distinctUntilKeyChanged');
 // require('./operators/Filtering/filter');
 // require('./operators/Filtering/find');
-require('./operators/Filtering/first');
+// require('./operators/Filtering/first');
 // require('./operators/Filtering/ignoreElements');
 // require('./operators/Filtering/last');
 // require('./operators/Filtering/sample');
@@ -56,7 +56,7 @@ require('./operators/Filtering/first');
 // require('./operators/Filtering/takeUntil');
 // require('./operators/Filtering/takeWhile');
 // require('./operators/Filtering/throttle');
-// require('./operators/Filtering/throttleTime');
+require('./operators/Filtering/throttleTime');
 // require('./operators/Transformation/buffer');
 // require('./operators/Transformation/bufferCount');
 // require('./operators/Transformation/bufferTime');
@@ -94,6 +94,3 @@ require('./operators/Filtering/first');
 // require('./operators/Utility/timeout');
 // require('./operators/Utility/timeoutWith');
 // require('./operators/Utility/toPromisse');
-
-//...
-
