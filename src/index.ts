@@ -56,13 +56,13 @@
 // require('./operators/Filtering/takeUntil');
 // require('./operators/Filtering/takeWhile');
 // require('./operators/Filtering/throttle');
-require('./operators/Filtering/throttleTime');
+// require('./operators/Filtering/throttleTime');
 // require('./operators/Transformation/buffer');
 // require('./operators/Transformation/bufferCount');
 // require('./operators/Transformation/bufferTime');
 // require('./operators/Transformation/bufferToggle');
 // require('./operators/Transformation/bufferWhen');
-// require('./operators/Transformation/concatMap');
+require('./operators/Transformation/concatMap');
 // require('./operators/Transformation/concatMapTo');
 // require('./operators/Transformation/exhaustMap');
 // require('./operators/Transformation/expand');
