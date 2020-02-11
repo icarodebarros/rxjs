@@ -62,13 +62,13 @@
 // require('./operators/Transformation/bufferTime');
 // require('./operators/Transformation/bufferToggle');
 // require('./operators/Transformation/bufferWhen');
-require('./operators/Transformation/concatMap');
+// require('./operators/Transformation/concatMap');
 // require('./operators/Transformation/concatMapTo');
 // require('./operators/Transformation/exhaustMap');
 // require('./operators/Transformation/expand');
 // require('./operators/Transformation/groupBy');
 // require('./operators/Transformation/map');
-// require('./operators/Transformation/mapTo');
+require('./operators/Transformation/mapTo');
 // require('./operators/Transformation/mergeMap-flatMap');
 // require('./operators/Transformation/mergeScan');
 // require('./operators/Transformation/partition');
