@@ -68,14 +68,14 @@
 // require('./operators/Transformation/expand');
 // require('./operators/Transformation/groupBy');
 // require('./operators/Transformation/map');
-require('./operators/Transformation/mapTo');
+// require('./operators/Transformation/mapTo');
 // require('./operators/Transformation/mergeMap-flatMap');
 // require('./operators/Transformation/mergeScan');
 // require('./operators/Transformation/partition');
 // require('./operators/Transformation/pluck');
 // require('./operators/Transformation/reduce');
 // require('./operators/Transformation/scan');
-// require('./operators/Transformation/switchMap');
+require('./operators/Transformation/switchMap');
 // require('./operators/Transformation/switchMapTo');
 // require('./operators/Transformation/toArray');
 // require('./operators/Transformation/window');
