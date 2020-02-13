@@ -75,14 +75,14 @@
 // require('./operators/Transformation/pluck');
 // require('./operators/Transformation/reduce');
 // require('./operators/Transformation/scan');
-require('./operators/Transformation/switchMap');
+// require('./operators/Transformation/switchMap');
 // require('./operators/Transformation/switchMapTo');
 // require('./operators/Transformation/toArray');
 // require('./operators/Transformation/window');
 // require('./operators/Transformation/windowCount');
 // require('./operators/Transformation/windowTime');
 // require('./operators/Transformation/windowToggle');
-// require('./operators/Transformation/windowWhen');
+require('./operators/Transformation/windowWhen');
 // require('./operators/Utility/tap-do');
 // require('./operators/Utility/delay');
 // require('./operators/Utility/delayWhen');
