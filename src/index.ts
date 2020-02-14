@@ -82,12 +82,12 @@
 // require('./operators/Transformation/windowCount');
 // require('./operators/Transformation/windowTime');
 // require('./operators/Transformation/windowToggle');
-require('./operators/Transformation/windowWhen');
+// require('./operators/Transformation/windowWhen');
 // require('./operators/Utility/tap-do');
 // require('./operators/Utility/delay');
 // require('./operators/Utility/delayWhen');
 // require('./operators/Utility/dematerialize');
-// require('./operators/Utility/finalize-finaly');
+require('./operators/Utility/finalize-finally');
 // require('./operators/Utility/let');
 // require('./operators/Utility/repeat');
 // require('./operators/Utility/timeInterval');
