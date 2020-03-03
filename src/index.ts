@@ -87,10 +87,10 @@
 // require('./operators/Utility/delay');
 // require('./operators/Utility/delayWhen');
 // require('./operators/Utility/dematerialize');
-require('./operators/Utility/finalize-finally');
+// require('./operators/Utility/finalize-finally');
 // require('./operators/Utility/let');
 // require('./operators/Utility/repeat');
 // require('./operators/Utility/timeInterval');
 // require('./operators/Utility/timeout');
 // require('./operators/Utility/timeoutWith');
-// require('./operators/Utility/toPromisse');
+require('./operators/Utility/toPromise');
