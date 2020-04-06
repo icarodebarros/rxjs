@@ -11,7 +11,7 @@
     "webpack": "^4.41.2"
   },
   "devDependencies": {
-    "ts-loader": "^6.2.1"
+    "ts-loader": "^6.2.2"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development"
