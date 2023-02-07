@@ -93,4 +93,4 @@
 // require('./operators/utility/timeInterval');
 // require('./operators/utility/timeout');
 // require('./operators/utility/timeoutWith');
-require('./operators/utility/toPromisse');
+require('./operators/utility/toPromise');
